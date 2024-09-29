@@ -2,8 +2,6 @@ public class Ejercicio4 {
 
     public static void main(String[] args) {
         
-
-          // ejercicio2
        int a = 5;
        int b = 12;
        System.out.println("el valor de a antes " + a);

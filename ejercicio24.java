@@ -5,8 +5,8 @@ public class Ejercicio24{
    Scanner scanner = new Scanner(System.in);
    int num;
    int factorial= 1;
- System.out.println("Ingresa un numero " );
- num=scanner.nextInt();
+    System.out.println("Ingresa un numero " );
+    num=scanner.nextInt();
  
  for (int i = 1; i <= num; i++){
  factorial = factorial * i;

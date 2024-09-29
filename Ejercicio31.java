@@ -6,7 +6,6 @@ public class Ejercicio31 {
         int column;
         Scanner scanner = new Scanner(System.in);
         
-        
         System.out.print("Introduce el número de filas: ");
         fila = scanner.nextInt();
         System.out.print("Introduce el número de columnas: ");
@@ -28,7 +27,6 @@ public class Ejercicio31 {
             }
         }
         
-        // Mostrar la matriz transpuesta
         System.out.println("La matriz transpuesta es:");
         for (int i = 0; i < column; i++) {
             for (int j = 0; j < fila; j++) {

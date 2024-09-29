@@ -13,7 +13,7 @@ public class Ejercicio11{
      {
         case 1:
         num1=Double.parseDouble(JOptionPane.showInputDialog("ingrese el primer valor"));
-       // num2=Double.parseDouble(JOptionPane.showInputDialog("ingrese el segundo valor"));
+    
         resultado=Math.sqrt(num1);
         JOptionPane.showMessageDialog(null, "La raiz cuadrada es:" + resultado);
        break;
@@ -25,7 +25,7 @@ public class Ejercicio11{
         break;
         case 3:
         num1=Double.parseDouble(JOptionPane.showInputDialog("ingrese el primer valor"));
-        //num2=Double.parseDouble(JOptionPane.showInputDialog("ingrese el segundo valor"));
+      
         resultado=Math.abs(num1);
         JOptionPane.showMessageDialog(null, "El valor absoluto es:" + resultado);
         break;

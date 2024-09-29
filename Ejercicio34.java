@@ -5,7 +5,6 @@ public class Ejercicio34 {
         int intMin = Integer.MIN_VALUE;
         System.out.println("int: Máximo = " + intMax + ", Mínimo = " + intMin);
 
-       
         double doubleMax = Double.MAX_VALUE;
         double doubleMin = Double.MIN_VALUE;
         System.out.println("double: Máximo = " + doubleMax + ", Mínimo = " + doubleMin);

@@ -4,7 +4,6 @@ import java.util.List;
 import java.util.Set;
  
 public class Ejercicio36 {
- 
     public static void main(String[] args) {
          
         List<String> colores;

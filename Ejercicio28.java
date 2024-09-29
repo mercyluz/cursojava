@@ -15,14 +15,12 @@ public class Ejercicio28 {
             array[i] = scanner.nextInt();
         }
 
-        // Invertir el array
         for (int i = 0; i < tama / 2; i++) {
             int temp = array[i];
             array[i] = array[tama - 1 - i];
             array[tama - 1 - i] = temp;
         }
 
-        // Mostrar el array invertido
         System.out.println("El array invertido es:");
         for (int i = 0; i < tama; i++) {
             System.out.print(array[i] + " ");
