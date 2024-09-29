@@ -1,19 +1,17 @@
 import java.util.Scanner;
-public class ejercicio15
-
- {
+public class Ejercicio15{
     public static void main(String[] args) {
         
-        int num1;
+   int num1;
 
    Scanner scanner = new Scanner(System.in);
   
  System.out.println("Ingresa el numero  " );
   num1 = scanner.nextInt();
- if(num1 % 2 ==0){
+      if(num1 % 2 ==0){
     System.out.println(num1+ "es un numero par");
- }else{
+         }else{
     System.out.println(num1+ " es un numero impar");
- }
- }
+         }
+   }
  }

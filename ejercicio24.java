@@ -1,7 +1,5 @@
 import java.util.Scanner;
-public class ejercicio24
-
- {
+public class Ejercicio24{
     public static void main(String[] args) {
         
    Scanner scanner = new Scanner(System.in);

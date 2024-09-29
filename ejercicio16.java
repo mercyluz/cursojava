@@ -1,7 +1,5 @@
 import java.util.Scanner;
-public class ejercicio16
-
- {
+public class Ejercicio16{
     public static void main(String[] args) {
         
    Scanner scanner = new Scanner(System.in);
@@ -9,10 +7,11 @@ public class ejercicio16
  System.out.println("Ingresa el año  " );
   num1 = scanner.nextInt();
 
- if((num1 % 4 == 0 && num1 % 100 != 0 ||(num1 % 400 == 0))){
+      if((num1 % 4 == 0 && num1 % 100 != 0 ||(num1 % 400 == 0))){
     System.out.println(num1+ " es bisiesto");
- }else{
+       }
+       else{
     System.out.println(num1+ " no es bisiesto");
- }
- }
+      }
+    }
  }

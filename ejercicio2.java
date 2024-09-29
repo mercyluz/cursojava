@@ -1,9 +1,9 @@
-public class ejercicio2 {
+
+
+public class Ejercicio2 {
 
     public static void main(String[] args) {
         
-
-          // ejercicio2
        int a = 5;
        int b = 12;
        

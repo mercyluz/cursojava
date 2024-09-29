@@ -1,7 +1,5 @@
 import java.util.Scanner;
-public class ejercicio25
-
- {
+public class Ejercicio25{
     public static void main(String[] args) {
         int fila;
         int i,j;
