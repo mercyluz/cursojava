@@ -1,6 +1,5 @@
 import javax.swing.JOptionPane;
 public class Ejercicio11{
-
     public static void main(String[] args) {
      int opcion=0;
      double num1, exponente;

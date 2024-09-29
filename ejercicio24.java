@@ -12,6 +12,6 @@ public class Ejercicio24{
  factorial = factorial * i;
  }
 System.out.println("El factorial de ; " +num+ " es "  +factorial);
-}
+    }
  }
  
