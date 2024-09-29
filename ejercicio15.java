@@ -3,7 +3,6 @@ public class Ejercicio15{
     public static void main(String[] args) {
         
    int num1;
-
    Scanner scanner = new Scanner(System.in);
   
  System.out.println("Ingresa el numero  " );
