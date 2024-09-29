@@ -3,8 +3,9 @@ public class Ejercicio25{
     public static void main(String[] args) {
         int fila;
         int i,j;
- Scanner scanner= new Scanner(System.in);
- System.out.println("ingrese el número de filas ");
+        Scanner scanner= new Scanner(System.in);
+        
+        System.out.println("ingrese el número de filas ");
        fila=scanner.nextInt();
   
   for(i=1; i<=fila; i++){
